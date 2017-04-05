@@ -26,11 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742486(v=vs.85).aspx
+* How you implemented it in your sketch: I would put the login box in the center because this is the main element that users focus on. The bigger login box would be easier for users to use and interact with.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742484(v=vs.85).aspx
+* How you implemented it in your sketch: I would add graphics under the login box to have a better visual representation and not plain.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742485(v=vs.85).aspx
+* How you implemented it in your sketch: I would keep the "myIIT" icon on the top right corner and have "Illinois Institute of Technology" next to it.
