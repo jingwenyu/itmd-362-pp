@@ -12,14 +12,14 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: I like the simple design of the mouse. It looks appealing and clean.
 
-* Behavioral:
+* Behavioral: I was having troubles with scrolling, left, and right click when I first used it. 
 
-* Reflective:
+* Reflective: The logo reflects the simple design of the mouse. 
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Have suitable font and color
+2. Usability- easy to use 
+3. Understand the purpose of each element of the page
